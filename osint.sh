@@ -17,3 +17,9 @@ make install
 apt-get install -y nmap
 #install ddos-attack
 git clone https://github.com/karthik558/ddos-attack.git && cd ddos-attack
+
+#install requirements with both python2 and 3
+pip install -r requirements.lst && pip3 install -r requiremnts.lst
+
+#remove this folder 
+#rm -rf osint_packages
