@@ -21,8 +21,8 @@ git clone https://github.com/karthik558/ddos-attack.git
 
 cd osint_package
 #install requirements with both python2 and 3
-pip install -r requirements.lst && pip3 install -r requiremnts.lst
+pip install -r requirements.txt && pip3 install -r requirements.txt
 
 #remove this folder 
-cd
-rm -rf osint_packages
+#cd
+#rm -rf osint_packages
