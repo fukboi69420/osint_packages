@@ -1,3 +1,7 @@
+#install requirements.txt
+#install with python3
+pip3 install -r requirements.txt
+
 #HOME DIR 
 cd ..
 ##update and upograde packages
@@ -32,7 +36,3 @@ git clone https://github.com/TheRealDalunacrobate/DaProfiler.git
 git clone https://github.com/megadose/OnionSearch.git
 cd OnionSearch/
 python3 setup.py install
-
-cd osint_package
-#install with python3
-pip3 install -r requirements.txt
