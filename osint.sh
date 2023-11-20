@@ -1,5 +1,5 @@
 #HOME DIR 
-cd
+cd ..
 ##update and upograde packages
 apt update
 apt upgrade
