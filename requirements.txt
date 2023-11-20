@@ -55,3 +55,10 @@ statistics
 python-socketio
 numpy
 opencv-python
+requests
+argparse
+termcolor
+tqdm
+html5lib
+bs4
+PySocks
