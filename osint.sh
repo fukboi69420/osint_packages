@@ -31,7 +31,3 @@ git clone https://github.com/TheRealDalunacrobate/DaProfiler.git
 cd osint_package
 #install requirements with both python2 and 3
 pip install -r requirements.txt && pip3 install -r requirements.txt
-
-#remove this folder 
-#cd
-#rm -rf osint_packages
