@@ -28,6 +28,11 @@ git clone https://github.com/karthik558/ddos-attack.git
 ##clone and install Daprofiler
 git clone https://github.com/TheRealDalunacrobate/DaProfiler.git
 
+#install OnionSearch
+git clone https://github.com/megadose/OnionSearch.git
+cd OnionSearch/
+python3 setup.py install
+
 cd osint_package
 #install with python3
 pip3 install -r requirements.txt
