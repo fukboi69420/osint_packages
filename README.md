@@ -10,3 +10,8 @@ cd osint_packages
 sudo sh osint.sh
 ```
 everything should be done automatically if i coded this right.
+if there are missing requirements copy and paste
+```
+cd osint_packages
+pip3 insatll -r requirements.txt
+```
