@@ -7,7 +7,8 @@ This makes it almost like a kali build with separated tools rather than all of t
 ```
 git clone https://github.com/fukboi69420/osint_packages
 cd osint_packages
-sudo sh osint.sh
+chmod +x osint.sh
+./osint.sh
 ```
 everything should be done automatically if i coded this right.
 if there are missing requirements copy and paste
@@ -15,3 +16,4 @@ if there are missing requirements copy and paste
 cd osint_packages
 pip3 insatll -r requirements.txt
 ```
+and then run wichever desired program you want, and it should all be pre set-up.
