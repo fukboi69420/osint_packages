@@ -36,3 +36,6 @@ git clone https://github.com/TheRealDalunacrobate/DaProfiler.git
 git clone https://github.com/megadose/OnionSearch.git
 cd OnionSearch/
 python3 setup.py install
+
+#install aircrack-ng
+sudo apt-get install -y build-essential autoconf automake libtool pkg-config libnl-3-dev libnl-genl-3-dev libssl-dev ethtool shtool rfkill zlib1g-dev libpcap-dev libsqlite3-dev libpcre2-dev libhwloc-dev libcmocka-dev hostapd wpasupplicant tcpdump screen iw usbutils expect
